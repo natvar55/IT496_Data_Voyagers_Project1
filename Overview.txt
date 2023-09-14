@@ -1,0 +1,8 @@
+Things that would be implemenmted in this project.
+
+1. EDA
+2. Preprocessing
+3. Data Cleanin
+4. Visualization of parameters using plots.
+5. Making training and test sets.
+6. Training the regression mode.
